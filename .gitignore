@@ -104,3 +104,7 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+#User defined
+Image_Caption_Generator/flickr30k_images
+Image_Caption_Generator/archive.zip
